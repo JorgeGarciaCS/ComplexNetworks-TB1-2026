@@ -1,6 +1,6 @@
 # Hito 1: Trabajo Parcial (EA1) - Complex Networks 2026-2
 
-**Equipo:** Dayana Gomez, Jose Villanueva
+**Equipo:** Dayana Gomez, Jose Villanueva, Jorge
 **Tema Seleccionado:** 2. Centralidad y corredores críticos de la red vial
 **Área de Estudio:** Distrito de Miraflores, Lima Metropolitana, Perú
 
