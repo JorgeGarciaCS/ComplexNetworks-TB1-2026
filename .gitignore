@@ -1,0 +1,16 @@
+# Entorno
+.venv/
+venv/
+__pycache__/
+
+# Datos
+data/*.graphml
+data/*.gpkg
+data/*.geojson
+data/*.sqlite
+data/*.db
+data/cache/
+data.zip
+
+# Jupyter
+.ipynb_checkpoints/
